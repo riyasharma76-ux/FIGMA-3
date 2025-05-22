@@ -59,3 +59,5 @@ Summary
 This mobile wireframe in Figma represents a complete product detail page for a smartwatch, with all standard e-commerce UI elements: product visuals, pricing, variations, CTAs, specs, and reviews. It is optimized for usability, mobile viewing, and conversion. Using Figma, this design can be shared, commented on by teammates, iterated in real time, and maintained with version history—creating a robust collaborative design workflow.
 
 ## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e6415948-c9fe-4be5-8b37-a6c56ba587a8)
